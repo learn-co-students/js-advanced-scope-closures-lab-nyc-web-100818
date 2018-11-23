@@ -26,5 +26,5 @@ function createDriver(){
       this.name  = name;
       this.id = ++id;
     };
-  }; 
+  };
 }
